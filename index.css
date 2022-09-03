@@ -1,0 +1,89 @@
+    /* .header1  {
+        color: yellow;
+        } */
+        .header2 {
+            background-color: blue;
+        }
+      #headerid {
+            color: green;
+        }
+      h1 {
+            padding-left: 50px;
+            padding-bottom: 50px;
+       }
+    image {
+            border: 1px green;
+            margin-top: 50px;
+       }
+    .kenny { 
+                color: red;
+                font-size: 20px;
+                padding-left: 50px;
+            }
+    button {
+
+            border: none;
+            background-color: blue;
+            color: white;
+            font-size: 30px;
+            }
+
+    .div1 {
+                border: solid 1px; 
+                background-color: rgb(255, 0, 34);
+                font-size: x-large;
+                text-align: center;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 30px;
+                padding-right: 30px;
+                margin-left: 50px;
+                margin-right: 50px;
+                margin-top: 50px;
+                margin-bottom: 50px;
+                border-radius: 10px;
+         }
+        #firstid {
+                background-color: orangered;
+                font-size: x-large;
+                text-align: center;
+                padding-left: 30px;
+                padding-right: 30px;
+                margin-left: 50px;
+                margin-right: 50px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                border-radius: 10px;
+         }
+    .span1 {
+                color: red;
+                font-size: 20px;
+            }
+    button {
+        margin-left: 100px;
+            }
+    .lastdiv{
+                background-color: rgb(127, 146, 255);
+                width: 20pc;
+                padding: 10px;
+                margin-left: 150px;
+                text-align: center;
+                border-radius: 100px;
+            }
+    .mother{
+            background-color: tomato;
+            width: 60%;
+            padding: 100px;
+            margin-left: 50px;
+            display: flex;
+            justify-content: space-around;
+    }
+    .child1{
+            background-color: violet;
+            width: 40%;
+            
+    }
+    .child2{
+        background-color: blueviolet;
+        width: 40%;
+    }
